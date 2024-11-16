@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>නවකතා අසපුව</title>
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url('background.jpg'); /* <a href="https://imgbb.com/"><img src="https://i.ibb.co/9Hwk6xb/IMG-9328.jpg" alt="IMG-9328" border="0"></a> */
+            background-size: cover;
+            background-position: center;
+        }
+
+        .header {
+            text-align: center;
+            padding: 20px;
+            background-color: rgba(0, 0, 0, 0.6);
+            color: white;
+        }
+
+        .header img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        .content {
+            text-align: center;
+            color: white;
+            margin-top: 20px;
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 10px;
+            margin: 20px auto;
+            width: 80%;
+        }
+
+        .content h1 {
+            margin: 10px 0;
+        }
+
+        .content p {
+            margin: 10px 0;
+        }
+
+        .content a {
+            color: #4CAF50;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            color: white;
+            background-color: rgba(0, 0, 0, 0.6);
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <img src="cover.jpg" alt="<a href="https://ibb.co/P4JmPgW"><img src="https://i.ibb.co/K7B0fWs/photo-output.jpg" alt="photo-output" border="0"></a>"> <!-- ඔබේ පළමුවැන් photo එක -->
+    </div>
+    <div class="content">
+        <h1>නවකතා අසපුව</h1>
+        <p>ආදරණිය නවකතා අසපුවට ඔයාලත් එකතු වෙන්න</p>
+        <p>
+            <a href="https://whatsapp.com/channel/0029VaviimdJUM2d0wXFh13i" target="_blank">Chanel Link</a>
+        </p>
+        <p>Owner Contact Us : 0717845122</p>
+    </div>
+    <div class="footer">
+        <p>© 2024 නවකතා අසපුව</p>
+    </div>
+</body>
+</html>
